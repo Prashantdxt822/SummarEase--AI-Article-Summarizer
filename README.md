@@ -1,2 +1,8 @@
-# SummarEase--AI-Article-Summarizer
-Hello People, This is an AI based Summarizing app which helps to summarize a given webpage in the form of url link . You just have to paste the url of the website or article you want to summarize and press enter. The summary of the article will be presented to you.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
